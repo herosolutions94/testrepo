@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>blog page</title>
+	<title>blog page new</title>
 </head>
 <body>
 
